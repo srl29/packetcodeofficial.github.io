@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Acme&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Baloo+Da+2&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Prata&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Poiret+One&display=swap');
+.header{
+	background-image: url("ocean.jpg");
+	text-align: center;
+	color: white;
+=
+	height: 100px;
+	position: relative;
+}
+.second{
+	height: 200px;
+}
+.three{
+	height: 200px;
+}
+.four{
+	height: 200px;
+}	
+#img1{
+	height: 200px;
+	width: 250px;
+}
